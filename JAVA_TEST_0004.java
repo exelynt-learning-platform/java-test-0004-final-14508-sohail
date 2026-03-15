@@ -2,7 +2,7 @@ public class JAVA_TEST_0004 {
     public static void main(String[] args) {
         int n = 4; // controls size
 
-        int size = 2 * n - 1; // grid size = 7
+        int size = 2 * n - 1; 
 
         for (int i = 1; i <= size; i++) {
             for (int j = 1; j <= size; j++) {
